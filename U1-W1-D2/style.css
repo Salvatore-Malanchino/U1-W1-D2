@@ -1,0 +1,31 @@
+body{
+
+background-color: rgb(133, 131, 209);
+}
+table{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+}
+
+
+
+th{
+    border: 3px solid black;
+    padding: 5px;
+    
+    
+}
+td{
+    border: 3px solid black;
+    padding: 5px;
+    
+    
+}
+img{
+    height: 150px;
+   
+}
+input{
+    height: 1.6em;
+}
